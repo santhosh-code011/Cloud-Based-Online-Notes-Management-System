@@ -1,0 +1,20 @@
+{
+  "name": "cloud-notes-management-system",
+  "version": "1.0.0",
+  "description": "A modern, responsive Cloud-Based Online Notes Management System with REST API and offline-ready cloud sync.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "notes",
+    "cloud-notes",
+    "notes-app",
+    "online-notes",
+    "javascript",
+    "nodejs"
+  ],
+  "author": "CloudNotes Team",
+  "license": "MIT"
+}
